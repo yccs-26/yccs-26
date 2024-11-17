@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yuchan001016@gmail.com**
 
-- ⚡ Fun fact **I love tennis 🎾**
+- 🎾 **I love tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
