@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/o_u.chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_u.chan" height="30" width="40" /></a>
 </p>
-
+<!--
 <style>
   .container {
     display: flex; /* 플렉스 컨테이너 */
@@ -23,6 +23,7 @@
     gap: 10px; /* 요소 간 간격 */
   }
 </style>
+-->
 
 <h3 align="left">Languages and Tools</h3>
 <div class="container">
