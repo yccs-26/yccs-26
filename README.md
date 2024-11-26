@@ -36,8 +36,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div> <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yccs-26&show_icons=true&locale=en&layout=compact" alt="yccs-26" /></p>
-<p>[![Uchan's acitivity](https://github-readme-activity-graph.vercel.app/graph?username=yccs-26&theme=dracula)](https://github.com/yccs-26/github-readme-activity-graph)</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yccs-26&show_icons=true&locale=en" alt="yccs-26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yccs-26&" alt="yccs-26" /></p>
