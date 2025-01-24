@@ -36,5 +36,5 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yccs-26&show_icons=true&locale=en" alt="yccs-26" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yccs-26&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yccs-26&layout=compact"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yccs-26&" alt="yccs-26" /></p>
