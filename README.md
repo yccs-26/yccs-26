@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm YUCHAN OH</h1>
 <h3 align="center">University of Seoul - computer science</h3>
 
-- 🌱 I’m currently learning **SQL, REACT, PYTHON**
+- 🌱 I’m currently learning **SQL, REACT, PYTHON, Javascript, Web Penetration Testing**
 
-- 📝 I regularly write articles on [yccs-26.github.io](yccs-26.github.io)
+- 📝 I regularly write articles on [velog.io/@o_u--chan](https://velog.io/@o_u--chan/posts)
+  - security
+  - programming
+  - daily reviews
 
 - 📫 How to reach me **yuchan001016@gmail.com**
 
